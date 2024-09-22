@@ -1,0 +1,24 @@
+/* .first-cart-artcle::after {
+  content: "";
+  position: absolute;
+  height: 4.5rem;
+  width: 4.5rem;
+  background-image: url(IMG/love-blank.jpeg);
+  background-size: cover;
+  background-position: center;
+  top: 12.5rem;
+  left: 59rem;
+}
+
+section img.checked {
+  color: blue;
+}
+
+section.checked::after {
+  background-image: url(IMG/love-checked.jpg);
+} */
+
+/* 
+.cart-container .love-emoji-box .checked::after {
+  background-image: url(IMG/love-checked.jpg);
+} */
