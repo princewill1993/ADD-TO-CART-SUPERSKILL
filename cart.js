@@ -260,7 +260,6 @@ function decreaseCartItemsFour() {
   }
 }
 
-
 // Function to toggle the heart image
 function toggleLoveEmoji(element) {
   // Check the current source of the image
@@ -274,8 +273,8 @@ function toggleLoveEmoji(element) {
   }
 }
 
-loveEmoji.forEach((item) => {
-  item.addEventListener("click", function () {
-    toggleLoveEmoji(item);
-  });
-});
+// loveEmoji.forEach((item) => {
+//   item.addEventListener("click", function () {
+//     toggleLoveEmoji(item);
+//   });
+// });
